@@ -1,0 +1,5 @@
+ugstudent Ferguson 1998 4 15 400000 2020 9 1 
+gstudent Bryan 1995 9 3 400001 2018 9 1 Dr.Polcovich
+ugstudent Mckenzy 1999 8 25 400002 2021 9 3 
+gstudent Gordon 1994 10 3 400003 2022 10 1 Dr.Polcovich
+ugstudent Stokes 1998 4 15 400004 2020 9 1 
